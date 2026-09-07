@@ -1,5 +1,4 @@
-# Multimodal Discovery Engine
-### Scalable semantic discovery platform 
+# Multimodal Discovery Engine 
 
 - Supports text, image, and video search 
 - Designed to `scale` across 5+ millions of products and catalogs, 
